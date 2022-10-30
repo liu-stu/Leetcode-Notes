@@ -15,5 +15,3 @@ git commit -m "fix(test): change content"规范提交，搜一下git commit风�
 git reset --hard (get log的id)  返回到上一个版本
 
 分支branch :一份 分支主要用于团队协作
-
-zhongguo
