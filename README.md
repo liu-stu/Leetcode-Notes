@@ -1,4 +1,4 @@
-# 仓库说明(Description of the repository)
+# Description of the repository
 
 本仓库用来存储刷题的笔记，题源来自leetcode刷题每个文件名称表示一道题目
 
