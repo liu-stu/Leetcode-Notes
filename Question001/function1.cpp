@@ -12,6 +12,5 @@ vector<int> twoSum(vector<int>& nums, int target) {
 	}
 	result.push_back(--i);
 	result.push_back(--j);
-	
 	return result;
 }
